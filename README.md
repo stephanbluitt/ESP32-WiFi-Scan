@@ -82,8 +82,8 @@ Nr | SSID                     | RSSI  | CH  | Encryption
 
 ## Project Images
 
-![Description for Image 1](IMG_4234.png)
-![Description for Image 2](IMG_4232.jpg)
+![Description for Image 1](IMG_4234.HEIC)
+![Description for Image 2](IMG_4232.HEIC)
 
 
 #### Code Used
