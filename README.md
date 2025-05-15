@@ -60,7 +60,7 @@ This example supports the following ESP32 variants:
    upload_port = COM5  ; Replace with your COM port
    monitor_speed = 115200
 
-###Final OutPut
+### Final OutPut
 
    Scan start  
 Scan done  
